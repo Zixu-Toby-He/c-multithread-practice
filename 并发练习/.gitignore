@@ -1,0 +1,8 @@
+.vscode/
+
+.vs/
+x64/
+*.vcxproj.*
+
+*.i
+*.s
